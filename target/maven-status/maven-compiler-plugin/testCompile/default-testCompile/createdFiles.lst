@@ -1,0 +1,5 @@
+com\TutorialsNinja\qa\TestCases\SearchTest.class
+com\TutorialsNinja\qa\TestCases\LoginTest.class
+com\tutorials\qa\base\package-info.class
+com\tutorials\qa\base\Base.class
+com\TutorialsNinja\qa\TestCases\RegisterTest.class
